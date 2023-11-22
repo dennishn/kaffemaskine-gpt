@@ -1,0 +1,50 @@
+[
+  {
+    "question": "iPad forbinder ikke med TopBrewer",
+    "answer": "• Sluk maskinen og vent 10 sekunder. Tænd maskinen. Vent til du hører et *bip* og tjek om app’en forbinder med maskinen.\n• Luk TopBrewer-app ned på iPad’en. Sluk maskinen. Vent 10 sekunder.\nTænd maskinen og åben app igen.\n• Slå Bluetooth fra og til på iPad."
+  },
+  {
+    "question": "App forbinder til forkert maskine",
+    "answer": "• Sluk maskinen og vent 10 sekunder.\nTænd maskinen. Vent til du hører et *bip* og tjek om app’en forbinder med maskinen.\n• Luk TopBrewer-app ned på iPad’en. Åben app igen.\nForbinder app stadig til forkert maskine:\n• Tryk på menuen (3 streger i venstre hjørne) • Vælg ”Change Machine”\n• Vælg nu den maskine du ønsker"
+  },
+  {
+    "question": "iPad er låst eller skal genstartes",
+    "answer": "Kontakt jeres interne IT-afdeling eller den medarbejder der har ansvar for jeres iPad."
+  },
+  {
+    "question": "External interface error",
+    "answer": "Sluk maskinen og vent 10 sekunder. Tænd maskinen."
+  },
+  {
+    "question": "Toppist error",
+    "answer": "Sluk maskinen og vent 10 sekunder. Tænd maskinen.\nMelder maskinen fortsat “Toppist error” skal du ringe til service."
+  },
+  {
+    "question": "Kaffegrums i maskinen",
+    "answer": "Ophobes der kaffegrums omkring den sorte svingarm skyldes det som regel, at posen i grumsbeholderen ikke sidder korrekt.\nSørg for at posen er skubbet helt ned og ind under kanten så den ikke stikker op."
+  },
+  {
+    "question": "Dregbin full",
+    "answer": "• Åben lågen til TopBrewer.\n• Tag grumsbeholderen ud og tøm den.\n• Sæt grumsbeholderen på plads, sørg for at\nposen i beholderen er monteret korrekt.\n• Luk lågen.\nMeldes der fortsat ”Dregbin full” gør følgende: • Åben lågen til TopBrewer.\n• Tag grumsbeholderen ud igen.\n• Hold den ude i min. 10 sekunder.\n• Sæt beholderen på plads og luk lågen."
+  },
+  {
+    "question": "Flydende chokolade kommer ikke ud\n",
+    "answer": "Kontroller at chokoladen er løbet frem i slangen – hvis ikke tryk på chokoladeposen så chokoladen løber frem i slangen.\nKør herefter en “Choco Prime” der skubber den flydende chokolade igennem systemet. På TopBrewer tastaturet tryk først på tasten markeret med Pil 1 så “Clean Menu” vises\ni displayet. Tryk dernæst Pil 2-tasten og Choco Prime startes.\nKommer der fortsat ikke chokolade ud ring til service.",
+    "image": "https://www.org.dk/figure1.1.png"
+  },
+  {
+    "question": "Waterflow issue",
+    "answer": "Når kaffen under brygning ikke flyder jævnt ud af hanen, men drypper langsomt.\nDer er to mulige grunde til Waterflow issue:\nTopstemplet i maskinen er beskidt\n• Åben lågen til TopBrewer og tjek topstem- plet for grums. Er der grums på topstem- plet rengør maskinen. Løser rengøring ikke problemet kontakt service.\nVandsikringen/waterblock er slået fra\nKontroller om der er vand i bunden af skabet.\n• Er der synligt tegn på vand i bunden af skabet, luk med det samme for vand- tilførslen til maskinen på Ballofix.\n• Ring herefter til service.\nEr der ikke synligt vand i skabet skal du tjekke om vandsikringen er slået fra (sikringen sidder på vandtilførslen/hanen).\n• Er sikringen slået fra skal du tørre føleren til\nvandsikringen med et tørt viskestykke – du finder føleren ved at følge ledningen fra vandsikringen. Skal ligge i bunden af skabet.\n• Slå vandsikringen til igen ved at presse kontakten tilbage (grøn pil retning).",
+    "figure": "1.2"
+  },
+  {
+    "question": "Manglende mælk ved brygning",
+    "answer": "Når der ikke kommer mælk ud af hanen ved bryg- ning af kaffe med mælk, og der er mælk i køleskabet.\nSmartFridge køleskab (fra 2023):\n• Kontroller at låget på mælkebeholderen er placeret korrekt. De 3 rør på låget skal skubbes helt indtil du hører et lavt ”klik” (se guide i rengøringsvejledning).\n• Hvis der fortsat ikke kommer mælk igennem udfør en “Milk Valve Clean”.\nPå TopBrewer tastaturet tryk først på tasten markeret med Pil 1 så “Clean Menu” vises i displayet.\nTryk dernæst Pil 2-tasten og der sendes nu mælk fra køleskabet igennem systemet. Kontakt service hvis der ikke løber mælk igennem.\nKøleskab (uden termostat, før 2023):\nKontroller om mælken er frossen i beholderen.\nHvis mælken er frossen ring til service.\nHvis slangerne er frosne fordi de har siddet for højt i køleskabet:\n• Lav en kop kogene vand og placer\nmælkeslangerne i vandet.\n• Lav derefter kold eller varm mælkedrik på\nmaskinen til de er tøet op.\n• Masser gerne slangerne undervejs så den\nfrosne mælk kommer ud.\n",
+    "figure": "1.3"
+  },
+  {
+    "question": "Missing Beans",
+    "answer": "Vises der “Missing Beans” selvom bønnebeholderen er fyldt op.\n• Kontroller at der ikke er lukket forbønne- beholderen - metalhåndtaget på siden skal stå i øversteposition. Ring til service hvis maskinen ikke har viste håndtag",
+    "figure": "1.4"
+  }
+]
