@@ -30,21 +30,21 @@
   {
     "question": "Flydende chokolade kommer ikke ud\n",
     "answer": "Kontroller at chokoladen er løbet frem i slangen – hvis ikke tryk på chokoladeposen så chokoladen løber frem i slangen.\nKør herefter en “Choco Prime” der skubber den flydende chokolade igennem systemet. På TopBrewer tastaturet tryk først på tasten markeret med Pil 1 så “Clean Menu” vises\ni displayet. Tryk dernæst Pil 2-tasten og Choco Prime startes.\nKommer der fortsat ikke chokolade ud ring til service.",
-    "image": "https://www.org.dk/figure1.1.png"
+    "image": "https://github.com/dennishn/kaffemaskine-gpt/blob/main/figure1.1.png?raw=true"
   },
   {
     "question": "Waterflow issue",
     "answer": "Når kaffen under brygning ikke flyder jævnt ud af hanen, men drypper langsomt.\nDer er to mulige grunde til Waterflow issue:\nTopstemplet i maskinen er beskidt\n• Åben lågen til TopBrewer og tjek topstem- plet for grums. Er der grums på topstem- plet rengør maskinen. Løser rengøring ikke problemet kontakt service.\nVandsikringen/waterblock er slået fra\nKontroller om der er vand i bunden af skabet.\n• Er der synligt tegn på vand i bunden af skabet, luk med det samme for vand- tilførslen til maskinen på Ballofix.\n• Ring herefter til service.\nEr der ikke synligt vand i skabet skal du tjekke om vandsikringen er slået fra (sikringen sidder på vandtilførslen/hanen).\n• Er sikringen slået fra skal du tørre føleren til\nvandsikringen med et tørt viskestykke – du finder føleren ved at følge ledningen fra vandsikringen. Skal ligge i bunden af skabet.\n• Slå vandsikringen til igen ved at presse kontakten tilbage (grøn pil retning).",
-    "figure": "1.2"
+    "image": "https://github.com/dennishn/kaffemaskine-gpt/blob/main/figure1.2.png?raw=true"
   },
   {
     "question": "Manglende mælk ved brygning",
     "answer": "Når der ikke kommer mælk ud af hanen ved bryg- ning af kaffe med mælk, og der er mælk i køleskabet.\nSmartFridge køleskab (fra 2023):\n• Kontroller at låget på mælkebeholderen er placeret korrekt. De 3 rør på låget skal skubbes helt indtil du hører et lavt ”klik” (se guide i rengøringsvejledning).\n• Hvis der fortsat ikke kommer mælk igennem udfør en “Milk Valve Clean”.\nPå TopBrewer tastaturet tryk først på tasten markeret med Pil 1 så “Clean Menu” vises i displayet.\nTryk dernæst Pil 2-tasten og der sendes nu mælk fra køleskabet igennem systemet. Kontakt service hvis der ikke løber mælk igennem.\nKøleskab (uden termostat, før 2023):\nKontroller om mælken er frossen i beholderen.\nHvis mælken er frossen ring til service.\nHvis slangerne er frosne fordi de har siddet for højt i køleskabet:\n• Lav en kop kogene vand og placer\nmælkeslangerne i vandet.\n• Lav derefter kold eller varm mælkedrik på\nmaskinen til de er tøet op.\n• Masser gerne slangerne undervejs så den\nfrosne mælk kommer ud.\n",
-    "figure": "1.3"
+    "image": "https://github.com/dennishn/kaffemaskine-gpt/blob/main/figure1.3.png?raw=true"
   },
   {
     "question": "Missing Beans",
     "answer": "Vises der “Missing Beans” selvom bønnebeholderen er fyldt op.\n• Kontroller at der ikke er lukket forbønne- beholderen - metalhåndtaget på siden skal stå i øversteposition. Ring til service hvis maskinen ikke har viste håndtag",
-    "figure": "1.4"
+    "image": "https://github.com/dennishn/kaffemaskine-gpt/blob/main/figure1.4.png?raw=true"
   }
 ]
